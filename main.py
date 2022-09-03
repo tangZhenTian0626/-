@@ -30,7 +30,7 @@ def get_access_token():
     # print(access_token)
     return access_token
  
- 
+//获取天气预报 
 def get_weather(region):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
